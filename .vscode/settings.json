@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.gitattributes": true,
+        "**/.gitignore": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/release": true
+    }
+}

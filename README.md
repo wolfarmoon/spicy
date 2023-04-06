@@ -3,6 +3,6 @@
 
 Spicy is (will be) an online (and offline) **Simulation Program with Integrated Circuit Emphasis** tool made using Blazor WebAssembly.
 
-This project was motivated by my desire making my own guitar pedals and testing them before buying anything. Also by the limited SPICE software pallete made for treating audio.
+This project was motivated by my desire of making my own guitar pedals and testing them before buying anything. Also by the limited SPICE software pallete made for treating audio.
 
 More information soon

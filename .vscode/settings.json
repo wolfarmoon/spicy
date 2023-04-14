@@ -5,6 +5,9 @@
         "**/.gitignore": true,
         "**/bin": true,
         "**/obj": true,
-        "**/release": true
+        "**/release": true,
+        "**/NEZ": true,
+        "**/FNA": true
+        "**/fnalibs": true
     }
 }
